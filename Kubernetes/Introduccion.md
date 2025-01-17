@@ -9,7 +9,7 @@
 1. **Masters**
 2. **Workers**
 
-## Caracteristicas de Kubernetes
+# Caracteristicas de Kubernetes
 - **Autocuracion**: Detecta faalos o anomalias en los contenedores y tomar acciones que solcuionen el problema automaticamente
 - **Escalado Automatico**: Genera replicas o destruye segun la demanda de la aplicacion automaticamente
 - **Despliegue y actualizaciones continuas**: Facilita el despliegue de nuevos cambios sin sacrificar disponiblidad o trafico.
