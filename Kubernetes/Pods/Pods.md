@@ -20,4 +20,7 @@ spec:
 ```
 
 # Volumenes en Pods
-Los volumenes en los pods permiten atar un 
+Los volumenes en los pods permiten atar un espacio de memoria del nodo al pod.
+```dsadsa
+dsadsa
+```
