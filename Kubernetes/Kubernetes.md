@@ -3,7 +3,7 @@
 - Los contenedores dejan de ser elementos estaticos
 - Kubernetes organiza los contendores en pods
 
-> **Un pod es un contendores de contenedores, y puede tener mas de un contenedor**
+> **"Un pod es un contendores de contenedores, y puede tener mas de un contenedor"**
 
 - El cluster es un conjunto de maquinas que ejecutan aplicaciones y existen dos tipos de maquinas.
 1. **Masters**: Conjunto que administra y controla el estado del worker
