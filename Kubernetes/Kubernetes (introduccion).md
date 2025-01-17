@@ -24,6 +24,7 @@ Conjunto que administra y controla el estado del cluster
 
 ### Workers
 Ejecutan aplicaciones, pods, deployments y demas
-- **Kubelet**: agente que se comunica con el API server
-- **Kube proxy**: garatniza las configuraciones de red y realiza el balance de carga de los pods
-- **Container Runtime**: software que ejecuta los contenedores
+- **Kubelet**: agente que se comunica con el API server.
+- **Kube proxy**: garatniza las configuraciones de red y realiza el balance de carga de los pods.
+- **Container Runtime**: software que ejecuta los contenedores.
+
