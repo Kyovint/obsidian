@@ -21,3 +21,9 @@ Conjunto que administra y controla el estado del cluster
 - **ETDC**: (Base de datos) Es una DB distribuida y altamente disponible almacena la configuracion y el estado del cluster, cada master tiene una copia del ETDC.
 - **Control Manager**: Ejecuta los controladores que garantizan el estado del cluster deseado.
 - **Scheduler**: determina en que nodos crear determinado pod segun la disponibilidad de recursos y relgas establecidas.
+
+### Workers
+Ejecutan aplicaciones, pods, deployments y demas
+- Kubelet: agente que se comunica con el API server
+- Kube proxy: garatniza las configuraciones de red y realiza el balance de carga de los pods
+- Container Runtime: software que ejecuta los contenedores
